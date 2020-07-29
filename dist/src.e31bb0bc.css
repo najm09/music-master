@@ -1,8 +1,16 @@
 .artist-profile{
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
 }
+
+/* .artist-tracks{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+} */
+
 @font-face{
   font-family: RobotoCondensed;
   src: url(/roboto-condensed.light.6709adf4.ttf);
